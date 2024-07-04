@@ -1,6 +1,11 @@
-### Hi there 👋
+## Stefanie Molin
 
-I am Stefanie Molin, and I'm a software engineer, author, and international speaker.
+[![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/stefmolin&style=flat)](https://github.com/sponsors/stefmolin)
+[![My website](https://img.shields.io/badge/website-stefaniemolin.com-0073b7?style=flat&link=https://stefaniemolin.com/)](https://stefaniemolin.com/)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/StefanieMolin?style=social)
+[![LinkedIn Badge](https://img.shields.io/badge/-Stefanie%20Molin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanie-molin/)](https://www.linkedin.com/in/stefanie-molin/)
+
+I'm a software engineer, author, and international speaker.
 I help people of all levels improve their computer science and data science skills.
 
 #### 📜 My recent articles
@@ -12,7 +17,7 @@ I help people of all levels improve their computer science and data science skil
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My website. (1 day ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My website personal website (stefaniemolin.com). (1 day ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (2 days ago)
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. (2 days ago)
 - [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. (4 days ago)
