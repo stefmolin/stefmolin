@@ -15,7 +15,7 @@ I help people of all levels improve their computer science and data science skil
 - [Data Morph: Moving Beyond the Datasaurus Dozen](https://stefaniemolin.com/articles/data-science/introducing-data-morph)
 - [How to Pivot and Plot Data with Pandas](https://stefaniemolin.com/articles/data-science/how-to-pivot-and-plot-data-with-pandas)
 
-#### 👩‍💻 Check out what I'm currently working on
+#### 👩‍💻 What I'm currently working on
 
 - [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My website personal website (stefaniemolin.com). (1 day ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (2 days ago)
