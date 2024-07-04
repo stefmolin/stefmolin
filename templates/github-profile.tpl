@@ -18,7 +18,7 @@ I help people of all levels improve their computer science and data science skil
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-<div>
+<div style="display: flex; column-gap: 10px;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=stefmolin&show_icons=true&theme=dark"
