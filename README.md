@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**stefmolin/stefmolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Stefanie Molin, and I'm a software engineer, author, and international speaker.
+I help people of all levels improve their computer science and data science skills.
 
-Here are some ideas to get you started:
+#### 📜 My recent articles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [How to Set Up Pre-Commit Hooks](https://stefaniemolin.com/articles/devx/pre-commit/setup-guide) (3 months ago)
+- [5 Ways to Get Started in Open Source](https://stefaniemolin.com/articles/open-source/5-ways-to-get-started-in-open-source) (10 months ago)
+- [Data Morph: Moving Beyond the Datasaurus Dozen](https://stefaniemolin.com/articles/data-science/introducing-data-morph) (1 year ago)
+- [How to Pivot and Plot Data with Pandas](https://stefaniemolin.com/articles/data-science/how-to-pivot-and-plot-data-with-pandas) (3 years ago)
+
+#### 👩‍💻 Check out what I'm currently working on
+
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My website. (1 day ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (2 days ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. (2 days ago)
+- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. (4 days ago)
+- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along. (5 days ago)
+
+#### 🔭 Latest releases I've contributed to
+
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([rs-0.41.3](https://github.com/pola-rs/polars/releases/tag/rs-0.41.3), 2 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.3.1](https://github.com/stefmolin/exif-stripper/releases/tag/0.3.1), 6 days ago) - Pre-commit hook to ensure image EXIF data is removed.
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_31](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_31), 2 weeks ago) - The Database Toolkit for Python
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.27.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.27.0), 1 month ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
+- [celery/celery](https://github.com/celery/celery) ([v5.4.0](https://github.com/celery/celery/releases/tag/v5.4.0), 2 months ago) - Distributed Task Queue (development branch)
+
+
