@@ -5,10 +5,10 @@ I help people of all levels improve their computer science and data science skil
 
 #### 📜 My recent articles
 
-- [How to Set Up Pre-Commit Hooks](https://stefaniemolin.com/articles/devx/pre-commit/setup-guide) (3 months ago)
-- [5 Ways to Get Started in Open Source](https://stefaniemolin.com/articles/open-source/5-ways-to-get-started-in-open-source) (10 months ago)
-- [Data Morph: Moving Beyond the Datasaurus Dozen](https://stefaniemolin.com/articles/data-science/introducing-data-morph) (1 year ago)
-- [How to Pivot and Plot Data with Pandas](https://stefaniemolin.com/articles/data-science/how-to-pivot-and-plot-data-with-pandas) (3 years ago)
+- [How to Set Up Pre-Commit Hooks](https://stefaniemolin.com/articles/devx/pre-commit/setup-guide)
+- [5 Ways to Get Started in Open Source](https://stefaniemolin.com/articles/open-source/5-ways-to-get-started-in-open-source)
+- [Data Morph: Moving Beyond the Datasaurus Dozen](https://stefaniemolin.com/articles/data-science/introducing-data-morph)
+- [How to Pivot and Plot Data with Pandas](https://stefaniemolin.com/articles/data-science/how-to-pivot-and-plot-data-with-pandas)
 
 #### 👩‍💻 Check out what I'm currently working on
 
@@ -26,4 +26,4 @@ I help people of all levels improve their computer science and data science skil
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.27.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.27.0), 1 month ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [celery/celery](https://github.com/celery/celery) ([v5.4.0](https://github.com/celery/celery/releases/tag/v5.4.0), 2 months ago) - Distributed Task Queue (development branch)
 
-
+![Stefanie Molin's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefmolin&show_icons=true&theme=transparent)
