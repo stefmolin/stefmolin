@@ -26,10 +26,13 @@ I help people of all levels improve their computer science and data science skil
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.27.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.27.0), 1 month ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [celery/celery](https://github.com/celery/celery) ([v5.4.0](https://github.com/celery/celery/releases/tag/v5.4.0), 2 months ago) - Distributed Task Queue (development branch)
 
-
-<div>
-  <div style="display: flex; column-gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=stefmolin&show_icons=true&theme=transparent" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=stefmolin&theme=transparent" alt="GitHub Streak" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=stefmolin&show_icons=true&theme=transparent" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=stefmolin&theme=transparent" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
