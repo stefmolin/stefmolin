@@ -32,7 +32,7 @@ I help people of all levels improve their computer science and data science skil
       <img src="https://github-readme-stats.vercel.app/api?username=stefmolin&show_icons=true&theme=transparent" alt="GitHub Stats" />
     </td>
     <td valign="top" style="border: none">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=stefmolin&theme=transparent" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=stefmolin&mode=weekly&theme=transparent" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
