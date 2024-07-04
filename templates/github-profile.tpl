@@ -18,12 +18,12 @@ I help people of all levels improve their computer science and data science skil
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top">
+<table>
+  <tr style="border: none">
+    <td valign="top" style="border: none">
       <img src="https://github-readme-stats.vercel.app/api?username=stefmolin&show_icons=true&theme=transparent" alt="GitHub Stats" />
     </td>
-    <td valign="top">
+    <td valign="top" style="border: none">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=stefmolin&theme=transparent" alt="GitHub Streak" />
     </td>
   </tr>
