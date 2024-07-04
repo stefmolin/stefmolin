@@ -14,7 +14,7 @@ I help people of all levels improve their computer science and data science skil
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
+{{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
