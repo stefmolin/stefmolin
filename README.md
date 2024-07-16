@@ -27,7 +27,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.1.0](https://github.com/pola-rs/polars/releases/tag/py-1.1.0), 1 week ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.2.0](https://github.com/pola-rs/polars/releases/tag/py-1.2.0), today) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.3.1](https://github.com/stefmolin/exif-stripper/releases/tag/0.3.1), 2 weeks ago) - Pre-commit hook to ensure image EXIF data is removed.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_31](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_31), 4 weeks ago) - The Database Toolkit for Python
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.27.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.27.0), 1 month ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
