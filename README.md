@@ -19,19 +19,19 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [EuroPython/website](https://github.com/EuroPython/website) - Repository for the EuroPython 2022&#43; website. (1 day ago)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (2 days ago)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. (2 days ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 days ago)
+- [EuroPython/website](https://github.com/EuroPython/website) - Repository for the EuroPython 2022&#43; website. (2 days ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (3 days ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. (3 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (4 days ago)
 - [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.1.0](https://github.com/pola-rs/polars/releases/tag/py-1.1.0), 1 week ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.3.1](https://github.com/stefmolin/exif-stripper/releases/tag/0.3.1), 2 weeks ago) - Pre-commit hook to ensure image EXIF data is removed.
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_31](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_31), 3 weeks ago) - The Database Toolkit for Python
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_31](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_31), 4 weeks ago) - The Database Toolkit for Python
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.27.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.27.0), 1 month ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
-- [celery/celery](https://github.com/celery/celery) ([v5.4.0](https://github.com/celery/celery/releases/tag/v5.4.0), 2 months ago) - Distributed Task Queue (development branch)
+- [celery/celery](https://github.com/celery/celery) ([v5.4.0](https://github.com/celery/celery/releases/tag/v5.4.0), 3 months ago) - Distributed Task Queue (development branch)
 
 <table>
   <tr style="border: none">
