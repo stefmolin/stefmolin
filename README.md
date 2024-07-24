@@ -27,7 +27,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0rc1](https://github.com/numpy/numpydoc/releases/tag/v1.8.0rc1), today) - Numpy&#39;s Sphinx extensions
+- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0rc2](https://github.com/numpy/numpydoc/releases/tag/v1.8.0rc2), today) - Numpy&#39;s Sphinx extensions
 - [celery/celery](https://github.com/celery/celery) ([v5.5.0b1](https://github.com/celery/celery/releases/tag/v5.5.0b1), today) - Distributed Task Queue (development branch)
 - [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.2.1](https://github.com/pola-rs/polars/releases/tag/py-1.2.1), 6 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.28.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.28.0), 1 week ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
