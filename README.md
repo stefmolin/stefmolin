@@ -19,17 +19,17 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
-- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (today)
-- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 day ago)
-- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (1 day ago)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. (6 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
+- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (1 day ago)
+- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (2 days ago)
+- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (2 days ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.3.0](https://github.com/pola-rs/polars/releases/tag/py-1.3.0), today) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0rc2](https://github.com/numpy/numpydoc/releases/tag/v1.8.0rc2), 4 days ago) - Numpy&#39;s Sphinx extensions
-- [celery/celery](https://github.com/celery/celery) ([v5.5.0b1](https://github.com/celery/celery/releases/tag/v5.5.0b1), 4 days ago) - Distributed Task Queue (development branch)
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.3.0](https://github.com/pola-rs/polars/releases/tag/py-1.3.0), 1 day ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0rc2](https://github.com/numpy/numpydoc/releases/tag/v1.8.0rc2), 5 days ago) - Numpy&#39;s Sphinx extensions
+- [celery/celery](https://github.com/celery/celery) ([v5.5.0b1](https://github.com/celery/celery/releases/tag/v5.5.0b1), 5 days ago) - Distributed Task Queue (development branch)
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.28.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.28.0), 1 week ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.3.1](https://github.com/stefmolin/exif-stripper/releases/tag/0.3.1), 1 month ago) - Pre-commit hook to ensure image EXIF data is removed.
 
