@@ -28,9 +28,9 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.4.0](https://github.com/pola-rs/polars/releases/tag/py-1.4.0), today) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 1 day ago) - scientific Python package recommendations &amp; guidance curated by pyOpenSci
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_1_4_53](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_1_4_53), 4 days ago) - The Database Toolkit for Python
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.3.0](https://github.com/pola-rs/polars/releases/tag/py-1.3.0), 5 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0rc2](https://github.com/numpy/numpydoc/releases/tag/v1.8.0rc2), 1 week ago) - Numpy&#39;s Sphinx extensions
 - [celery/celery](https://github.com/celery/celery) ([v5.5.0b1](https://github.com/celery/celery/releases/tag/v5.5.0b1), 1 week ago) - Distributed Task Queue (development branch)
 
