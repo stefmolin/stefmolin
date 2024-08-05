@@ -20,17 +20,17 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 days ago)
 - [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (1 week ago)
 - [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 week ago)
 - [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (1 week ago)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. (1 week ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.4.1](https://github.com/pola-rs/polars/releases/tag/py-1.4.1), today) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 3 days ago) - scientific Python package recommendations &amp; guidance curated by pyOpenSci
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_1_4_53](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_1_4_53), 6 days ago) - The Database Toolkit for Python
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.4.1](https://github.com/pola-rs/polars/releases/tag/py-1.4.1), 1 day ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 4 days ago) - scientific Python package recommendations &amp; guidance curated by pyOpenSci
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_1_4_53](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_1_4_53), 1 week ago) - The Database Toolkit for Python
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0rc2](https://github.com/numpy/numpydoc/releases/tag/v1.8.0rc2), 1 week ago) - Numpy&#39;s Sphinx extensions
 - [celery/celery](https://github.com/celery/celery) ([v5.5.0b1](https://github.com/celery/celery/releases/tag/v5.5.0b1), 1 week ago) - Distributed Task Queue (development branch)
 
