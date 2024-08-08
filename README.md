@@ -20,7 +20,7 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 days ago)
 - [stefmolin/pre-commit-workshop](https://github.com/stefmolin/pre-commit-workshop) - &#34;(Pre-)Commit to Better Code&#34; workshop (4 days ago)
 - [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (1 week ago)
 - [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 week ago)
