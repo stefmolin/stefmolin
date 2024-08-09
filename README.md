@@ -28,11 +28,11 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), today) - Numpy&#39;s Sphinx extensions
 - [celery/celery](https://github.com/celery/celery) ([v5.5.0b2](https://github.com/celery/celery/releases/tag/v5.5.0b2), 3 days ago) - Distributed Task Queue (development branch)
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_32](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_32), 4 days ago) - The Database Toolkit for Python
 - [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.4.1](https://github.com/pola-rs/polars/releases/tag/py-1.4.1), 5 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 1 week ago) - scientific Python package recommendations &amp; guidance curated by pyOpenSci
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0rc2](https://github.com/numpy/numpydoc/releases/tag/v1.8.0rc2), 2 weeks ago) - Numpy&#39;s Sphinx extensions
 
 <table>
   <tr style="border: none">
