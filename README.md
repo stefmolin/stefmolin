@@ -20,18 +20,18 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (today)
-- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (1 day ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (4 days ago)
-- [stefmolin/pre-commit-workshop](https://github.com/stefmolin/pre-commit-workshop) - &#34;(Pre-)Commit to Better Code&#34; workshop (6 days ago)
-- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (1 week ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (1 day ago)
+- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (2 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (5 days ago)
+- [stefmolin/pre-commit-workshop](https://github.com/stefmolin/pre-commit-workshop) - &#34;(Pre-)Commit to Better Code&#34; workshop (1 week ago)
+- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 1 day ago) - Numpy&#39;s Sphinx extensions
-- [celery/celery](https://github.com/celery/celery) ([v5.5.0b2](https://github.com/celery/celery/releases/tag/v5.5.0b2), 4 days ago) - Distributed Task Queue (development branch)
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_32](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_32), 5 days ago) - The Database Toolkit for Python
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.4.1](https://github.com/pola-rs/polars/releases/tag/py-1.4.1), 6 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 2 days ago) - Numpy&#39;s Sphinx extensions
+- [celery/celery](https://github.com/celery/celery) ([v5.5.0b2](https://github.com/celery/celery/releases/tag/v5.5.0b2), 5 days ago) - Distributed Task Queue (development branch)
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_32](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_32), 6 days ago) - The Database Toolkit for Python
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.4.1](https://github.com/pola-rs/polars/releases/tag/py-1.4.1), 1 week ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 1 week ago) - scientific Python package recommendations &amp; guidance curated by pyOpenSci
 
 <table>
