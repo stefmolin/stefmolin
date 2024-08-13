@@ -12,15 +12,15 @@ improve their computer science and data science skills.
 
 #### 📜 My recent articles
 
+- [How Pre-Commit Works](https://stefaniemolin.com/articles/devx/pre-commit/behind-the-scenes)
 - [Common Pre-Commit Errors and How to Solve Them](https://stefaniemolin.com/articles/devx/pre-commit/troubleshooting-guide)
 - [Tips for Navigating an Issue Tracker on GitHub](https://stefaniemolin.com/articles/open-source/navigating-an-issue-tracker)
 - [How to Set Up Pre-Commit Hooks](https://stefaniemolin.com/articles/devx/pre-commit/setup-guide)
 - [5 Ways to Get Started in Open Source](https://stefaniemolin.com/articles/open-source/5-ways-to-get-started-in-open-source)
-- [Data Morph: Moving Beyond the Datasaurus Dozen](https://stefaniemolin.com/articles/data-science/introducing-data-morph)
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. (2 days ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (3 days ago)
 - [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (4 days ago)
