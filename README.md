@@ -20,17 +20,17 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. (3 days ago)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (4 days ago)
-- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (5 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 days ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. (4 days ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (5 days ago)
+- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (6 days ago)
 - [stefmolin/pre-commit-workshop](https://github.com/stefmolin/pre-commit-workshop) - &#34;(Pre-)Commit to Better Code&#34; workshop (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([rs-0.42.0](https://github.com/pola-rs/polars/releases/tag/rs-0.42.0), today) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.29.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.29.0), 3 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 5 days ago) - Numpy&#39;s Sphinx extensions
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([rs-0.42.0](https://github.com/pola-rs/polars/releases/tag/rs-0.42.0), 1 day ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.29.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.29.0), 4 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
+- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 6 days ago) - Numpy&#39;s Sphinx extensions
 - [celery/celery](https://github.com/celery/celery) ([v5.5.0b2](https://github.com/celery/celery/releases/tag/v5.5.0b2), 1 week ago) - Distributed Task Queue (development branch)
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_32](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_32), 1 week ago) - The Database Toolkit for Python
 
