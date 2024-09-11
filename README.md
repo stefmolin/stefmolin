@@ -28,7 +28,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([rs-0.43.0](https://github.com/pola-rs/polars/releases/tag/rs-0.43.0), today) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.7.0](https://github.com/pola-rs/polars/releases/tag/py-1.7.0), today) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [celery/celery](https://github.com/celery/celery) ([v5.5.0b3](https://github.com/celery/celery/releases/tag/v5.5.0b3), 3 days ago) - Distributed Task Queue (development branch)
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_1_4_54](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_1_4_54), 6 days ago) - The Database Toolkit for Python
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.29.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.29.0), 1 month ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
