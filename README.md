@@ -12,8 +12,8 @@ improve their computer science and data science skills.
 
 #### 📜 My recent articles
 
-- [How to Create a Pre-Commit Hook](https://stefaniemolin.com/articles/devx/pre-commit/hook-creation-guide)
-- [How Pre-Commit Works](https://stefaniemolin.com/articles/devx/pre-commit/behind-the-scenes)
+- [Pre-Commit Hook Creation Guide](https://stefaniemolin.com/articles/devx/pre-commit/hook-creation-guide)
+- [A Behind-the-Scenes Look at How Pre-Commit Works](https://stefaniemolin.com/articles/devx/pre-commit/behind-the-scenes)
 - [Common Pre-Commit Errors and How to Solve Them](https://stefaniemolin.com/articles/devx/pre-commit/troubleshooting-guide)
 - [Tips for Navigating an Issue Tracker on GitHub](https://stefaniemolin.com/articles/open-source/navigating-an-issue-tracker)
 - [How to Set Up Pre-Commit Hooks](https://stefaniemolin.com/articles/devx/pre-commit/setup-guide)
@@ -28,8 +28,8 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.7.1](https://github.com/pola-rs/polars/releases/tag/py-1.7.1), 1 day ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [celery/celery](https://github.com/celery/celery) ([v5.5.0b3](https://github.com/celery/celery/releases/tag/v5.5.0b3), 5 days ago) - Distributed Task Queue (development branch)
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.7.1](https://github.com/pola-rs/polars/releases/tag/py-1.7.1), 2 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [celery/celery](https://github.com/celery/celery) ([v5.5.0b3](https://github.com/celery/celery/releases/tag/v5.5.0b3), 6 days ago) - Distributed Task Queue (development branch)
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_1_4_54](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_1_4_54), 1 week ago) - The Database Toolkit for Python
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.29.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.29.0), 1 month ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 1 month ago) - Numpy&#39;s Sphinx extensions
