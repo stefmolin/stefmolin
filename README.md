@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Stefanie%20Molin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanie-molin/)](https://www.linkedin.com/in/stefanie-molin/)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-yellow?style=flat&logo=buymeacoffee&logoColor=white&labelColor=yellow&color=gray)
 ](https://www.buymeacoffee.com/stefanie.molin)
-[![Ko-Fi](https://shields.io/badge/kofi-Buy_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKofi)](https://ko-fi.com/stefaniemolin)
+[![Ko-Fi](https://shields.io/badge/kofi-Support-ff5f5f?logo=ko-fi&style=flat)](https://ko-fi.com/stefaniemolin)
 
 I'm a software engineer, author, and international speaker who helps people of all levels
 improve their computer science and data science skills.
