@@ -33,7 +33,7 @@ improve their computer science and data science skills.
 - [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.8.2](https://github.com/pola-rs/polars/releases/tag/py-1.8.2), 4 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_35](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_35), 1 week ago) - The Database Toolkit for Python
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 1 month ago) - Numpy&#39;s Sphinx extensions
-- [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 1 month ago) - scientific Python package recommendations &amp; guidance curated by pyOpenSci
+- [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 1 month ago) - Scientific Python package recommendations &amp; guidance curated by pyOpenSci
 
 <table>
   <tr style="border: none">
