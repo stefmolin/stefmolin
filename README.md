@@ -21,16 +21,16 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 day ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (4 days ago)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (5 days ago)
+- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (2 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (5 days ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (6 days ago)
 - [stefmolin/.github](https://github.com/stefmolin/.github) - Default community health files for my repositories. (1 week ago)
 - [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.29.1](https://github.com/commitizen-tools/commitizen/releases/tag/v3.29.1), 2 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.8.2](https://github.com/pola-rs/polars/releases/tag/py-1.8.2), 4 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.29.1](https://github.com/commitizen-tools/commitizen/releases/tag/v3.29.1), 3 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.8.2](https://github.com/pola-rs/polars/releases/tag/py-1.8.2), 5 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_35](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_35), 1 week ago) - The Database Toolkit for Python
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 1 month ago) - Numpy&#39;s Sphinx extensions
 - [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 1 month ago) - Scientific Python package recommendations &amp; guidance curated by pyOpenSci
