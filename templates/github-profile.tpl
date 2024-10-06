@@ -29,7 +29,7 @@ improve their computer science and data science skills.
 <table>
   <tr style="border: none">
     <td valign="top" style="border: none">
-      <img src="https://github-readme-stats.vercel.app/api?username=stefmolin&show_icons=true&theme=transparent" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=stefmolin&rank_icon=percentile&show_icons=true&theme=transparent" alt="GitHub Stats" />
     </td>
     <td valign="top" style="border: none">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=stefmolin&mode=weekly&theme=transparent" alt="GitHub Streak" />
