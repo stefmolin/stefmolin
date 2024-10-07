@@ -32,8 +32,8 @@ improve their computer science and data science skills.
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.4.0](https://github.com/stefmolin/exif-stripper/releases/tag/0.4.0), today) - Pre-commit hook to ensure image EXIF data is removed.
 - [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.9.0](https://github.com/pola-rs/polars/releases/tag/py-1.9.0), 6 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.29.1](https://github.com/commitizen-tools/commitizen/releases/tag/v3.29.1), 1 week ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_35](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_35), 3 weeks ago) - The Database Toolkit for Python
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 1 month ago) - Numpy&#39;s Sphinx extensions
+- [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 2 months ago) - Scientific Python package recommendations &amp; guidance curated by pyOpenSci
 
 <table>
   <tr style="border: none">
