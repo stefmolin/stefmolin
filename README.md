@@ -21,17 +21,17 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (today)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (1 day ago)
-- [sigstore/gh-action-sigstore-python](https://github.com/sigstore/gh-action-sigstore-python) - A GitHub Action for sigstore-python (4 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 day ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (2 days ago)
+- [sigstore/gh-action-sigstore-python](https://github.com/sigstore/gh-action-sigstore-python) - A GitHub Action for sigstore-python (5 days ago)
 - [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.9.0](https://github.com/pola-rs/polars/releases/tag/py-1.9.0), 5 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.9.0](https://github.com/pola-rs/polars/releases/tag/py-1.9.0), 6 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.29.1](https://github.com/commitizen-tools/commitizen/releases/tag/v3.29.1), 1 week ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_35](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_35), 2 weeks ago) - The Database Toolkit for Python
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_35](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_35), 3 weeks ago) - The Database Toolkit for Python
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 1 month ago) - Numpy&#39;s Sphinx extensions
 - [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 2 months ago) - Scientific Python package recommendations &amp; guidance curated by pyOpenSci
 
