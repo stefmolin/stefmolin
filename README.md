@@ -13,16 +13,16 @@ improve their computer science and data science skills.
 
 #### 📜 My recent articles
 
+- [Mind Your Image Metadata](https://stefaniemolin.com/articles/devx/pre-commit/exif-stripper)
 - [Pre-Commit Hook Creation Guide](https://stefaniemolin.com/articles/devx/pre-commit/hook-creation-guide)
 - [A Behind-the-Scenes Look at How Pre-Commit Works](https://stefaniemolin.com/articles/devx/pre-commit/behind-the-scenes)
 - [Common Pre-Commit Errors and How to Solve Them](https://stefaniemolin.com/articles/devx/pre-commit/troubleshooting-guide)
 - [Tips for Navigating an Issue Tracker on GitHub](https://stefaniemolin.com/articles/open-source/navigating-an-issue-tracker)
-- [How to Set Up Pre-Commit Hooks](https://stefaniemolin.com/articles/devx/pre-commit/setup-guide)
 
 #### 👩‍💻 What I'm currently working on
 
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed. (2 days ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 days ago)
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (3 days ago)
 - [sigstore/gh-action-sigstore-python](https://github.com/sigstore/gh-action-sigstore-python) - A GitHub Action for sigstore-python (1 week ago)
 - [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 week ago)
