@@ -21,15 +21,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (today)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed. (1 day ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 day ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 days ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed. (2 days ago)
 - [sigstore/gh-action-sigstore-python](https://github.com/sigstore/gh-action-sigstore-python) - A GitHub Action for sigstore-python (1 week ago)
-- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 week ago)
+- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.4.0](https://github.com/stefmolin/exif-stripper/releases/tag/0.4.0), 3 days ago) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed.
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.4.0](https://github.com/stefmolin/exif-stripper/releases/tag/0.4.0), 4 days ago) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed.
 - [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.9.0](https://github.com/pola-rs/polars/releases/tag/py-1.9.0), 1 week ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.29.1](https://github.com/commitizen-tools/commitizen/releases/tag/v3.29.1), 2 weeks ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 2 months ago) - Numpy&#39;s Sphinx extensions
