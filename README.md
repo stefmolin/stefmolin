@@ -29,8 +29,8 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.11.0](https://github.com/pola-rs/polars/releases/tag/py-1.11.0), today) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.30.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.30.0), today) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([py-1.10.0](https://github.com/pola-rs/polars/releases/tag/py-1.10.0), 3 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.4.0](https://github.com/stefmolin/exif-stripper/releases/tag/0.4.0), 2 weeks ago) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 2 months ago) - Numpy&#39;s Sphinx extensions
 - [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 2 months ago) - Scientific Python package recommendations &amp; guidance curated by pyOpenSci
