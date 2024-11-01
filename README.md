@@ -29,7 +29,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [pola-rs/polars](https://github.com/pola-rs/polars) ([rs-0.44.1](https://github.com/pola-rs/polars/releases/tag/rs-0.44.1), 3 days ago) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) ([rs-0.44.2](https://github.com/pola-rs/polars/releases/tag/rs-0.44.2), today) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.5.0](https://github.com/stefmolin/exif-stripper/releases/tag/0.5.0), 5 days ago) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed.
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.30.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.30.0), 1 week ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 2 months ago) - Numpy&#39;s Sphinx extensions
