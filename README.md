@@ -21,15 +21,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (4 days ago)
-- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (4 days ago)
-- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (4 days ago)
-- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (4 days ago)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed. (6 days ago)
+- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (5 days ago)
+- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (5 days ago)
+- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (5 days ago)
+- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (5 days ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.5.0](https://github.com/stefmolin/exif-stripper/releases/tag/0.5.0), 6 days ago) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed.
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.5.0](https://github.com/stefmolin/exif-stripper/releases/tag/0.5.0), 1 week ago) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed.
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.30.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.30.0), 1 week ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 2 months ago) - Numpy&#39;s Sphinx extensions
 - [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 3 months ago) - Scientific Python package recommendations &amp; guidance curated by pyOpenSci
