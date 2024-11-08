@@ -21,8 +21,8 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 day ago)
-- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (2 days ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (2 days ago)
+- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (3 days ago)
 - [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (1 week ago)
 - [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 week ago)
 - [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (1 week ago)
