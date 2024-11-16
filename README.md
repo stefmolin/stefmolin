@@ -29,8 +29,8 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.31.0](https://github.com/commitizen-tools/commitizen/releases/tag/v3.31.0), today) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.6.1](https://github.com/stefmolin/exif-stripper/releases/tag/0.6.1), 3 days ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
-- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v3.30.1](https://github.com/commitizen-tools/commitizen/releases/tag/v3.30.1), 6 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 3 months ago) - Numpy&#39;s Sphinx extensions
 - [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) ([v0.4](https://github.com/pyOpenSci/python-package-guide/releases/tag/v0.4), 3 months ago) - Scientific Python package recommendations &amp; guidance curated by pyOpenSci
 - [sigstore/gh-action-sigstore-python](https://github.com/sigstore/gh-action-sigstore-python) ([v3.0.0](https://github.com/sigstore/gh-action-sigstore-python/releases/tag/v3.0.0), 4 months ago) - A GitHub Action for sigstore-python
