@@ -29,7 +29,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [pallets/click](https://github.com/pallets/click) ([8.1.8](https://github.com/pallets/click/releases/tag/8.1.8), 3 weeks ago) - Python composable command line interface toolkit
+- [pallets/click](https://github.com/pallets/click) ([8.1.8](https://github.com/pallets/click/releases/tag/8.1.8), 4 weeks ago) - Python composable command line interface toolkit
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.1.0](https://github.com/commitizen-tools/commitizen/releases/tag/v4.1.0), 1 month ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.6.1](https://github.com/stefmolin/exif-stripper/releases/tag/0.6.1), 2 months ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 5 months ago) - Numpy&#39;s Sphinx extensions
