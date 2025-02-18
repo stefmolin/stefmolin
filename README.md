@@ -21,16 +21,16 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (today)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (today)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (today)
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) - Numpy&#39;s Sphinx extensions (2 days ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (6 days ago)
+- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (1 day ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 day ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (1 day ago)
+- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (1 day ago)
+- [numpy/numpydoc](https://github.com/numpy/numpydoc) - Numpy&#39;s Sphinx extensions (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.6.2](https://github.com/stefmolin/exif-stripper/releases/tag/0.6.2), today) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.3.0](https://github.com/stefmolin/data-morph/releases/tag/0.3.0), today) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.6.2](https://github.com/stefmolin/exif-stripper/releases/tag/0.6.2), 1 day ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.3.0](https://github.com/stefmolin/data-morph/releases/tag/0.3.0), 1 day ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.2.1](https://github.com/commitizen-tools/commitizen/releases/tag/v4.2.1), 1 week ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [pallets/click](https://github.com/pallets/click) ([8.1.8](https://github.com/pallets/click/releases/tag/8.1.8), 1 month ago) - Python composable command line interface toolkit
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.8.0](https://github.com/numpy/numpydoc/releases/tag/v1.8.0), 6 months ago) - Numpy&#39;s Sphinx extensions
