@@ -4,7 +4,7 @@
 [![My website](https://img.shields.io/badge/website-stefaniemolin.com-0073b7?style=flat&link=https://stefaniemolin.com/)](https://stefaniemolin.com/)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/StefanieMolin?style=social)](https://twitter.com/StefanieMolin)
 [![BlueSky Follow](https://img.shields.io/badge/-Stefanie%20Molin-blue?style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/stefaniemolin.com)](https://bsky.app/profile/stefaniemolin.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Stefanie%20Molin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanie-molin/)](https://www.linkedin.com/in/stefanie-molin/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Stefanie%20Molin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanie-molin/)](https://www.linkedin.com/in/stefanie-molin/)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-yellow?style=flat&logo=buymeacoffee&logoColor=white&labelColor=yellow&color=gray)
 ](https://www.buymeacoffee.com/stefanie.molin)
 [![Ko-Fi](https://shields.io/badge/kofi-Support-ff5f5f?logo=ko-fi&style=flat)](https://ko-fi.com/stefaniemolin)
