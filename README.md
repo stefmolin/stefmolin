@@ -22,7 +22,7 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python (1 day ago)
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python (2 days ago)
 - [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (1 week ago)
 - [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 week ago)
 - [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (1 week ago)
