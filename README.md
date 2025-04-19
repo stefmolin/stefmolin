@@ -22,7 +22,7 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (today)
+- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (1 day ago)
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 week ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (1 week ago)
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python (3 weeks ago)
@@ -30,7 +30,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.6.0](https://github.com/commitizen-tools/commitizen/releases/tag/v4.6.0), 5 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.6.0](https://github.com/commitizen-tools/commitizen/releases/tag/v4.6.0), 6 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_40](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_40), 3 weeks ago) - The Database Toolkit for Python
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.6.2](https://github.com/stefmolin/exif-stripper/releases/tag/0.6.2), 2 months ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.3.0](https://github.com/stefmolin/data-morph/releases/tag/0.3.0), 2 months ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
