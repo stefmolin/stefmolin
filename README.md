@@ -30,8 +30,8 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.6.1](https://github.com/commitizen-tools/commitizen/releases/tag/v4.6.1), today) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) ([0.1.2](https://github.com/stefmolin/modification-timekeeper/releases/tag/0.1.2), 1 day ago) - Keep modification time in a Markdown file&#39;s YAML front matter up to date.
-- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.6.0](https://github.com/commitizen-tools/commitizen/releases/tag/v4.6.0), 3 weeks ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([0.5.1](https://github.com/stefmolin/docstringify/releases/tag/0.5.1), 3 weeks ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_40](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_40), 1 month ago) - The Database Toolkit for Python
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.6.2](https://github.com/stefmolin/exif-stripper/releases/tag/0.6.2), 2 months ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
