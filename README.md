@@ -22,16 +22,16 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) - Materials for following along with Hands-On Data Analysis with Pandas – Second Edition (2 days ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 days ago)
-- [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (4 days ago)
-- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (4 days ago)
-- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (4 days ago)
+- [stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) - Materials for following along with Hands-On Data Analysis with Pandas – Second Edition (3 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (4 days ago)
+- [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (5 days ago)
+- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (5 days ago)
+- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.6.3](https://github.com/commitizen-tools/commitizen/releases/tag/v4.6.3), 1 day ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
-- [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) ([0.1.2](https://github.com/stefmolin/modification-timekeeper/releases/tag/0.1.2), 4 days ago) - Keep modification time in a Markdown file&#39;s YAML front matter up to date.
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.6.3](https://github.com/commitizen-tools/commitizen/releases/tag/v4.6.3), 2 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
+- [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) ([0.1.2](https://github.com/stefmolin/modification-timekeeper/releases/tag/0.1.2), 5 days ago) - Keep modification time in a Markdown file&#39;s YAML front matter up to date.
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([0.5.1](https://github.com/stefmolin/docstringify/releases/tag/0.5.1), 4 weeks ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_40](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_40), 1 month ago) - The Database Toolkit for Python
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([0.6.2](https://github.com/stefmolin/exif-stripper/releases/tag/0.6.2), 2 months ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
