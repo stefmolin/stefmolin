@@ -23,18 +23,18 @@ improve their computer science and data science skills.
 #### 👩‍💻 What I'm currently working on
 
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (today)
+- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (today)
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (3 days ago)
 - [stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) - Materials for following along with Hands-On Data Analysis with Pandas – Second Edition (1 week ago)
 - [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 week ago)
-- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.3.1](https://github.com/stefmolin/data-morph/releases/tag/0.3.1), today) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_41](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_41), today) - The Database Toolkit for Python
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([0.6.0](https://github.com/stefmolin/docstringify/releases/tag/0.6.0), 2 days ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [pallets/click](https://github.com/pallets/click) ([8.2.0](https://github.com/pallets/click/releases/tag/8.2.0), 4 days ago) - Python composable command line interface toolkit
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.7.0](https://github.com/commitizen-tools/commitizen/releases/tag/v4.7.0), 4 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
-- [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) ([0.1.2](https://github.com/stefmolin/modification-timekeeper/releases/tag/0.1.2), 1 week ago) - Keep modification time in a Markdown file&#39;s YAML front matter up to date.
 
 <table>
   <tr style="border: none">
