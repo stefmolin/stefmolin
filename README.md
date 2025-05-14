@@ -30,11 +30,11 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_41](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_41), today) - The Database Toolkit for Python
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([0.6.0](https://github.com/stefmolin/docstringify/releases/tag/0.6.0), 2 days ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [pallets/click](https://github.com/pallets/click) ([8.2.0](https://github.com/pallets/click/releases/tag/8.2.0), 4 days ago) - Python composable command line interface toolkit
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.7.0](https://github.com/commitizen-tools/commitizen/releases/tag/v4.7.0), 4 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) ([0.1.2](https://github.com/stefmolin/modification-timekeeper/releases/tag/0.1.2), 1 week ago) - Keep modification time in a Markdown file&#39;s YAML front matter up to date.
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_40](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_40), 1 month ago) - The Database Toolkit for Python
 
 <table>
   <tr style="border: none">
