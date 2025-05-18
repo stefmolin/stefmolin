@@ -30,7 +30,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.7.1](https://github.com/commitizen-tools/commitizen/releases/tag/v4.7.1), 2 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.7.2](https://github.com/commitizen-tools/commitizen/releases/tag/v4.7.2), today) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.3.1](https://github.com/stefmolin/data-morph/releases/tag/0.3.1), 4 days ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_41](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_41), 4 days ago) - The Database Toolkit for Python
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([0.6.0](https://github.com/stefmolin/docstringify/releases/tag/0.6.0), 6 days ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
