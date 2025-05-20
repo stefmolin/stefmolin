@@ -22,11 +22,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) - Python packaging made simple. Recommendations &amp; guidance curated by the pyOpenSci community (today)
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (1 day ago)
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (2 days ago)
 - [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (6 days ago)
 - [stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) - Materials for following along with Hands-On Data Analysis with Pandas – Second Edition (2 weeks ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
