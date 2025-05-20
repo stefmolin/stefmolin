@@ -22,17 +22,17 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (today)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 day ago)
-- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (5 days ago)
-- [stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) - Materials for following along with Hands-On Data Analysis with Pandas – Second Edition (1 week ago)
+- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (1 day ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (2 days ago)
+- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (6 days ago)
+- [stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) - Materials for following along with Hands-On Data Analysis with Pandas – Second Edition (2 weeks ago)
 - [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.7.2](https://github.com/commitizen-tools/commitizen/releases/tag/v4.7.2), 1 day ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.3.1](https://github.com/stefmolin/data-morph/releases/tag/0.3.1), 5 days ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_41](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_41), 5 days ago) - The Database Toolkit for Python
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) ([v4.7.2](https://github.com/commitizen-tools/commitizen/releases/tag/v4.7.2), 2 days ago) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.3.1](https://github.com/stefmolin/data-morph/releases/tag/0.3.1), 6 days ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_41](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_41), 6 days ago) - The Database Toolkit for Python
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([0.6.0](https://github.com/stefmolin/docstringify/releases/tag/0.6.0), 1 week ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [pallets/click](https://github.com/pallets/click) ([8.2.0](https://github.com/pallets/click/releases/tag/8.2.0), 1 week ago) - Python composable command line interface toolkit
 
