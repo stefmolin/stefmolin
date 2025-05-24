@@ -22,15 +22,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (today)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (1 day ago)
-- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (1 day ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 days ago)
-- [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) - Python packaging made simple. Recommendations &amp; guidance curated by the pyOpenSci community (3 days ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 day ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (2 days ago)
+- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (2 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 days ago)
+- [pyOpenSci/python-package-guide](https://github.com/pyOpenSci/python-package-guide) - Python packaging made simple. Recommendations &amp; guidance curated by the pyOpenSci community (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([1.0.0](https://github.com/stefmolin/docstringify/releases/tag/1.0.0), 3 days ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
+- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([1.0.0](https://github.com/stefmolin/docstringify/releases/tag/1.0.0), 4 days ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.3.1](https://github.com/stefmolin/data-morph/releases/tag/0.3.1), 1 week ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_41](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_41), 1 week ago) - The Database Toolkit for Python
 - [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) ([0.1.2](https://github.com/stefmolin/modification-timekeeper/releases/tag/0.1.2), 2 weeks ago) - Keep modification time in a Markdown file&#39;s YAML front matter up to date.
