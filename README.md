@@ -30,7 +30,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.9.0](https://github.com/numpy/numpydoc/releases/tag/v1.9.0), 1 week ago) - Numpy&#39;s Sphinx extensions
+- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.9.0](https://github.com/numpy/numpydoc/releases/tag/v1.9.0), 2 weeks ago) - Numpy&#39;s Sphinx extensions
 - [sigstore/gh-action-sigstore-python](https://github.com/sigstore/gh-action-sigstore-python) ([v3.0.1](https://github.com/sigstore/gh-action-sigstore-python/releases/tag/v3.0.1), 2 weeks ago) - A GitHub Action for sigstore-python
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.0.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.0.0), 3 weeks ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([1.0.0](https://github.com/stefmolin/docstringify/releases/tag/1.0.0), 1 month ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
