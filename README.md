@@ -22,16 +22,16 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (today)
-- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (1 day ago)
-- [stefmolin/pre-commit-workshop](https://github.com/stefmolin/pre-commit-workshop) - &#34;(Pre-)Commit to Better Code&#34; workshop (2 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (1 day ago)
+- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (2 days ago)
+- [stefmolin/pre-commit-workshop](https://github.com/stefmolin/pre-commit-workshop) - &#34;(Pre-)Commit to Better Code&#34; workshop (3 days ago)
 - [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.9.0](https://github.com/numpy/numpydoc/releases/tag/v1.9.0), 2 weeks ago) - Numpy&#39;s Sphinx extensions
-- [sigstore/gh-action-sigstore-python](https://github.com/sigstore/gh-action-sigstore-python) ([v3.0.1](https://github.com/sigstore/gh-action-sigstore-python/releases/tag/v3.0.1), 2 weeks ago) - A GitHub Action for sigstore-python
+- [sigstore/gh-action-sigstore-python](https://github.com/sigstore/gh-action-sigstore-python) ([v3.0.1](https://github.com/sigstore/gh-action-sigstore-python/releases/tag/v3.0.1), 3 weeks ago) - A GitHub Action for sigstore-python
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.0.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.0.0), 3 weeks ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([1.0.0](https://github.com/stefmolin/docstringify/releases/tag/1.0.0), 1 month ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.3.1](https://github.com/stefmolin/data-morph/releases/tag/0.3.1), 1 month ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
