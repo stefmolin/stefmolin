@@ -30,7 +30,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_42](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_42), 1 week ago) - The Database Toolkit for Python
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_43](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_43), today) - The Database Toolkit for Python
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([1.1.1](https://github.com/stefmolin/docstringify/releases/tag/1.1.1), 4 weeks ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.1.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.1.0), 1 month ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.9.0](https://github.com/numpy/numpydoc/releases/tag/v1.9.0), 1 month ago) - Numpy&#39;s Sphinx extensions
