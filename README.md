@@ -22,15 +22,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (3 days ago)
-- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (3 days ago)
+- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (4 days ago)
+- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (4 days ago)
 - [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 week ago)
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (1 month ago)
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_43](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_43), 1 day ago) - The Database Toolkit for Python
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_43](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_43), 2 days ago) - The Database Toolkit for Python
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([1.1.1](https://github.com/stefmolin/docstringify/releases/tag/1.1.1), 1 month ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.1.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.1.0), 1 month ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.9.0](https://github.com/numpy/numpydoc/releases/tag/v1.9.0), 1 month ago) - Numpy&#39;s Sphinx extensions
