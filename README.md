@@ -22,8 +22,8 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (5 days ago)
-- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (6 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (6 days ago)
+- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 week ago)
 - [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (1 week ago)
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 week ago)
 - [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (1 week ago)
@@ -32,7 +32,7 @@ improve their computer science and data science skills.
 
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_43](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_43), 4 weeks ago) - The Database Toolkit for Python
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([1.1.1](https://github.com/stefmolin/docstringify/releases/tag/1.1.1), 1 month ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.1.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.1.0), 1 month ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.1.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.1.0), 2 months ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.9.0](https://github.com/numpy/numpydoc/releases/tag/v1.9.0), 2 months ago) - Numpy&#39;s Sphinx extensions
 - [sigstore/gh-action-sigstore-python](https://github.com/sigstore/gh-action-sigstore-python) ([v3.0.1](https://github.com/sigstore/gh-action-sigstore-python/releases/tag/v3.0.1), 2 months ago) - A GitHub Action for sigstore-python
 
