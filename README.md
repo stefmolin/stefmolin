@@ -14,19 +14,19 @@ improve their computer science and data science skills.
 
 #### 📜 My recent articles
 
+- [Becoming a Core Developer](https://stefaniemolin.com/articles/open-source/becoming-a-core-developer)
 - [Mind Your Image Metadata](https://stefaniemolin.com/articles/devx/pre-commit/exif-stripper)
 - [Pre-Commit Hook Creation Guide](https://stefaniemolin.com/articles/devx/pre-commit/hook-creation-guide)
 - [A Behind-the-Scenes Look at How Pre-Commit Works](https://stefaniemolin.com/articles/devx/pre-commit/behind-the-scenes)
 - [Common Pre-Commit Errors and How to Solve Them](https://stefaniemolin.com/articles/devx/pre-commit/troubleshooting-guide)
-- [Tips for Navigating an Issue Tracker on GitHub](https://stefaniemolin.com/articles/open-source/navigating-an-issue-tracker)
 
 #### 👩‍💻 What I'm currently working on
 
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
 - [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (1 day ago)
 - [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (1 day ago)
 - [pyladies/global-conference](https://github.com/pyladies/global-conference) - Global PyLadies Conference (2 days ago)
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (6 days ago)
-- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
