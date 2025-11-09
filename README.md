@@ -22,7 +22,7 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (6 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 week ago)
 - [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (1 week ago)
 - [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (1 week ago)
 - [pyladies/global-conference](https://github.com/pyladies/global-conference) - Global PyLadies Conference (1 week ago)
@@ -31,7 +31,7 @@ improve their computer science and data science skills.
 #### 🔭 Latest releases I've contributed to
 
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.2.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.2.0), 2 weeks ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_44](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_44), 4 weeks ago) - The Database Toolkit for Python
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_44](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_44), 1 month ago) - The Database Toolkit for Python
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([1.1.1](https://github.com/stefmolin/docstringify/releases/tag/1.1.1), 3 months ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.9.0](https://github.com/numpy/numpydoc/releases/tag/v1.9.0), 4 months ago) - Numpy&#39;s Sphinx extensions
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.3.1](https://github.com/stefmolin/data-morph/releases/tag/0.3.1), 5 months ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
