@@ -22,11 +22,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (4 days ago)
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) - Numpy&#39;s Sphinx extensions (1 week ago)
 - [stefmolin/Hands-On-Data-Analysis-with-Pandas](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas) - Materials for following along with Hands-On Data Analysis with Pandas. (1 week ago)
-- [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (2 weeks ago)
-- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (2 weeks ago)
+- [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (3 weeks ago)
+- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
