@@ -22,8 +22,8 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 days ago)
-- [pyladies/global-conference-2025](https://github.com/pyladies/global-conference-2025) - PyLadiesCon 2025 Conference website (2 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 days ago)
+- [pyladies/global-conference-2025](https://github.com/pyladies/global-conference-2025) - PyLadiesCon 2025 Conference website (3 days ago)
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) - Numpy&#39;s Sphinx extensions (2 weeks ago)
 - [stefmolin/Hands-On-Data-Analysis-with-Pandas](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas) - Materials for following along with Hands-On Data Analysis with Pandas. (2 weeks ago)
 - [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (4 weeks ago)
