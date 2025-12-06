@@ -22,11 +22,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (today)
+- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (today)
+- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (today)
 - [pyladies/global-conference-2025](https://github.com/pyladies/global-conference-2025) - PyLadiesCon 2025 Conference website (1 day ago)
 - [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (6 days ago)
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) - Numpy&#39;s Sphinx extensions (3 weeks ago)
-- [stefmolin/Hands-On-Data-Analysis-with-Pandas](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas) - Materials for following along with Hands-On Data Analysis with Pandas. (3 weeks ago)
-- [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
