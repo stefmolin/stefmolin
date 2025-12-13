@@ -22,15 +22,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (5 days ago)
-- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (6 days ago)
-- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (6 days ago)
-- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (6 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (6 days ago)
+- [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 week ago)
+- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (1 week ago)
+- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (1 week ago)
 - [pyladies/global-conference-2025](https://github.com/pyladies/global-conference-2025) - PyLadiesCon 2025 Conference website (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_45](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_45), 3 days ago) - The Database Toolkit for Python
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_45](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_45), 4 days ago) - The Database Toolkit for Python
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 1 week ago) - Numpy&#39;s Sphinx extensions
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.2.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.2.0), 1 month ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([1.1.1](https://github.com/stefmolin/docstringify/releases/tag/1.1.1), 5 months ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
