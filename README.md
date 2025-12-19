@@ -26,7 +26,7 @@ improve their computer science and data science skills.
 - [stefmolin/getting-started-with-open-source-talk](https://github.com/stefmolin/getting-started-with-open-source-talk) - Slides for my talk &#34;Getting Started with Open Source Contributions&#34; (1 week ago)
 - [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (1 week ago)
 - [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (1 week ago)
-- [pyladies/global-conference-2025](https://github.com/pyladies/global-conference-2025) - PyLadiesCon 2025 Conference website (1 week ago)
+- [pyladies/global-conference-2025](https://github.com/pyladies/global-conference-2025) - PyLadiesCon 2025 Conference website (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
