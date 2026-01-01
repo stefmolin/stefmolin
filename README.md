@@ -31,7 +31,7 @@ improve their computer science and data science skills.
 #### 🔭 Latest releases I've contributed to
 
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_0_45](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_45), 3 weeks ago) - The Database Toolkit for Python
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 4 weeks ago) - Numpy&#39;s Sphinx extensions
+- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 1 month ago) - Numpy&#39;s Sphinx extensions
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.2.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.2.0), 2 months ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([1.1.1](https://github.com/stefmolin/docstringify/releases/tag/1.1.1), 5 months ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.3.1](https://github.com/stefmolin/data-morph/releases/tag/0.3.1), 7 months ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
