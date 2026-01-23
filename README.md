@@ -22,16 +22,16 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) - A sphinx extension for designing beautiful, screen-size responsive web components. (3 days ago)
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (2 weeks ago)
+- [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) - A sphinx extension for designing beautiful, screen-size responsive web components. (4 days ago)
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (3 weeks ago)
 - [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 month ago)
 - [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (1 month ago)
 - [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_1_0b1](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_1_0b1), 1 day ago) - The Database Toolkit for Python
-- [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.7.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.7.0), 3 days ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_1_0b1](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_1_0b1), 2 days ago) - The Database Toolkit for Python
+- [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.7.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.7.0), 4 days ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.31](https://github.com/fastapi/sqlmodel/releases/tag/0.0.31), 3 weeks ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 1 month ago) - Numpy&#39;s Sphinx extensions
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.2.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.2.0), 3 months ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
