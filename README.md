@@ -30,9 +30,9 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.32](https://github.com/fastapi/sqlmodel/releases/tag/0.0.32), today) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_1_0b1](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_1_0b1), 1 week ago) - The Database Toolkit for Python
 - [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.7.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.7.0), 1 week ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.31](https://github.com/fastapi/sqlmodel/releases/tag/0.0.31), 1 month ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 2 months ago) - Numpy&#39;s Sphinx extensions
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.2.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.2.0), 3 months ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 
