@@ -22,15 +22,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (5 days ago)
-- [python-spain/web-ng](https://github.com/python-spain/web-ng) - Web de la asociación Python España (realizada con GatsbyJS) (1 week ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (6 days ago)
+- [python-spain/web-ng](https://github.com/python-spain/web-ng) - Web de la asociación Python España (realizada con GatsbyJS) (2 weeks ago)
 - [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) - A sphinx extension for designing beautiful, screen-size responsive web components. (1 month ago)
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (1 month ago)
 - [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.37](https://github.com/fastapi/sqlmodel/releases/tag/0.0.37), 2 days ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.37](https://github.com/fastapi/sqlmodel/releases/tag/0.0.37), 3 days ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ([rel_2_1_0b1](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_1_0b1), 1 month ago) - The Database Toolkit for Python
 - [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.7.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.7.0), 1 month ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 2 months ago) - Numpy&#39;s Sphinx extensions
