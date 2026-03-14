@@ -22,7 +22,7 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 weeks ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
 - [python-spain/web-ng](https://github.com/python-spain/web-ng) - Web de la asociación Python España (realizada con GatsbyJS) (1 month ago)
 - [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) - A sphinx extension for designing beautiful, screen-size responsive web components. (1 month ago)
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (2 months ago)
