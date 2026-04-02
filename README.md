@@ -20,6 +20,18 @@ improve their computer science and data science skills.
 - [A Behind-the-Scenes Look at How Pre-Commit Works](https://stefaniemolin.com/articles/devx/pre-commit/behind-the-scenes)
 - [Common Pre-Commit Errors and How to Solve Them](https://stefaniemolin.com/articles/devx/pre-commit/troubleshooting-guide)
 
+#### 👩🏽‍🏫 My open source workshops
+
+- [Introduction to Data Analysis Using Pandas](https://stefaniemolin.com/workshops/pandas-workshop/)
+- [Beyond the Basics: Data Visualization in Python](https://stefaniemolin.com/workshops/python-data-viz-workshop/)
+- [(Pre-)Commit to Better Code](https://stefaniemolin.com/workshops/pre-commit-workshop/)
+- [Process, Analyze, and Transform Python Code with ASTs](https://stefaniemolin.com/workshops/ast-workshop/)
+
+#### 📚 My published books
+
+- [Hands-On Data Analysis with Pandas (2nd edition)](https://stefaniemolin.com/books/Hands-On-Data-Analysis-with-Pandas-2nd-edition/) &ndash; also available in Korean and Simplified Chinese
+- [Hands-On Data Analysis with Pandas (1st edition)](https://stefaniemolin.com/books/Hands-On-Data-Analysis-with-Pandas-1st-edition/)
+
 #### 👩‍💻 What I'm currently working on
 
 - [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
@@ -35,14 +47,3 @@ improve their computer science and data science skills.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 4 months ago) - Numpy&#39;s Sphinx extensions
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.2.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.2.0), 5 months ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([1.1.1](https://github.com/stefmolin/docstringify/releases/tag/1.1.1), 8 months ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
-
-<table>
-  <tr style="border: none">
-    <td valign="top" style="border: none">
-      <img src="https://github-readme-stats.vercel.app/api?username=stefmolin&rank_icon=percentile&show_icons=true&theme=transparent" alt="GitHub Stats" />
-    </td>
-    <td valign="top" style="border: none">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=stefmolin&mode=weekly&theme=transparent" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
