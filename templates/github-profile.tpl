@@ -17,6 +17,18 @@ improve their computer science and data science skills.
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
+#### 👩🏽‍🏫 My open source workshops
+
+- [Introduction to Data Analysis Using Pandas](https://stefaniemolin.com/workshops/pandas-workshop/)
+- [Beyond the Basics: Data Visualization in Python](https://stefaniemolin.com/workshops/python-data-viz-workshop/)
+- [(Pre-)Commit to Better Code](https://stefaniemolin.com/workshops/pre-commit-workshop/)
+- [Process, Analyze, and Transform Python Code with ASTs](https://stefaniemolin.com/workshops/ast-workshop/)
+
+#### 📚 My published books
+
+- [Hands-On Data Analysis with Pandas (2nd edition)](https://stefaniemolin.com/books/Hands-On-Data-Analysis-with-Pandas-2nd-edition/) &ndash; also available in Korean and Simplified Chinese
+- [Hands-On Data Analysis with Pandas (1st edition)](https://stefaniemolin.com/books/Hands-On-Data-Analysis-with-Pandas-1st-edition/)
+
 #### 👩‍💻 What I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -26,14 +38,3 @@ improve their computer science and data science skills.
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
-
-<table>
-  <tr style="border: none">
-    <td valign="top" style="border: none">
-      <img src="https://github-readme-stats.vercel.app/api?username=stefmolin&rank_icon=percentile&show_icons=true&theme=transparent" alt="GitHub Stats" />
-    </td>
-    <td valign="top" style="border: none">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=stefmolin&mode=weekly&theme=transparent" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
