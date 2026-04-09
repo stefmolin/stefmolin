@@ -1,34 +1,3 @@
-<style>
-/*
-Adapted from - https://stackoverflow.com/a/70746179
-Posted by Roko C. Buljan, modified by community. See post 'Timeline' for change history
-Retrieved 2026-04-08, License - CC BY-SA 4.0
-*/
-
-@property --from {
-  syntax: '<integer>';
-  initial-value: 0;
-  inherits: false;
-}
-
-.counter {
-  transition: --from 1s;
-  counter-reset: int var(--from);
-  animation: counter var(--time, 1000) forwards ease-in-out;
-}
-
-.counter::before {
-  content: counter(int);
-}
-
-@keyframes counter {
-  to {
-    --from: var(--to);
-  }
-}
-</style>
-
-
 ## Stefanie Molin
 
 [![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/stefmolin&style=flat)](https://github.com/sponsors/stefmolin)
@@ -42,29 +11,6 @@ Retrieved 2026-04-08, License - CC BY-SA 4.0
 
 I'm a software engineer, author, and international speaker who helps people of all levels
 improve their computer science and data science skills.
-
-
-<div style="display: grid; grid-template-areas: 'a a a';">
-    <div style="text-align: center; font-size: 3em; line-height: 1.05em;">
-    ⏱️
-    <br/>
-    <span class="counter" style="--to:120; --time:4s;"></span>
-    <br/>hours
-    </div>
-    <div style="text-align: center; font-size: 3em; line-height: 1.05em;">
-    📖
-    <br/>
-    <span class="counter" style="--to:4; --time:4s;"></span>
-    <br/>workshops
-    </div>
-    <div style="text-align: center; font-size: 3em; line-height: 1.05em;">
-    📚
-    <br/>
-    <span class="counter" style="--to:2; --time:4s;"></span>
-    <br/>books
-    </div>
-</div>
-
 
 #### 📜 My recent articles
 
@@ -88,15 +34,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (1 day ago)
-- [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - WORK IN PROGRESS (2 days ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 days ago)
-- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (3 days ago)
-- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (4 days ago)
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (2 days ago)
+- [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - WORK IN PROGRESS (3 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 days ago)
+- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (4 days ago)
+- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.38](https://github.com/fastapi/sqlmodel/releases/tag/0.0.38), 6 days ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.38](https://github.com/fastapi/sqlmodel/releases/tag/0.0.38), 1 week ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.0](https://github.com/hakimel/reveal.js/releases/tag/6.0.0), 4 weeks ago) - The HTML Presentation Framework
 - [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.7.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.7.0), 2 months ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 4 months ago) - Numpy&#39;s Sphinx extensions
