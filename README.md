@@ -34,11 +34,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (1 day ago)
 - [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (1 day ago)
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (2 days ago)
 - [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - WORK IN PROGRESS (3 days ago)
 - [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 days ago)
-- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
