@@ -12,6 +12,22 @@
 I'm a software engineer, author, and international speaker who helps people of all levels
 improve their computer science and data science skills.
 
+
+<div style="display: grid; grid-template-areas: 'a a a';">
+    <div style="text-align: center; font-size: 3em; line-height: 1.05em;">
+    ⏱️
+    <br/>
+    500
+    <br/>hours
+    </div>
+    <div style="text-align: center; font-size: 3em; line-height: 1.05em;">
+    📖
+    <br/>
+    4
+    <br/>workshops
+    </div>
+</div>
+
 #### 📜 My recent articles
 
 - [Becoming a Core Developer](https://stefaniemolin.com/articles/open-source/becoming-a-core-developer)
