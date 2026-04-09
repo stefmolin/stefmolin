@@ -1,3 +1,34 @@
+<style>
+/*
+Adapted from - https://stackoverflow.com/a/70746179
+Posted by Roko C. Buljan, modified by community. See post 'Timeline' for change history
+Retrieved 2026-04-08, License - CC BY-SA 4.0
+*/
+
+@property --from {
+  syntax: '<integer>';
+  initial-value: 0;
+  inherits: false;
+}
+
+.counter {
+  transition: --from 1s;
+  counter-reset: int var(--from);
+  animation: counter var(--time, 1000) forwards ease-in-out;
+}
+
+.counter::before {
+  content: counter(int);
+}
+
+@keyframes counter {
+  to {
+    --from: var(--to);
+  }
+}
+</style>
+
+
 ## Stefanie Molin
 
 [![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/stefmolin&style=flat)](https://github.com/sponsors/stefmolin)
@@ -11,6 +42,29 @@
 
 I'm a software engineer, author, and international speaker who helps people of all levels
 improve their computer science and data science skills.
+
+
+<div style="display: grid; grid-template-areas: 'a a a';">
+    <div style="text-align: center; font-size: 3em; line-height: 1.05em;">
+    ⏱️
+    <br/>
+    <span class="counter" style="--to:120; --time:4s;"></span>
+    <br/>hours
+    </div>
+    <div style="text-align: center; font-size: 3em; line-height: 1.05em;">
+    📖
+    <br/>
+    <span class="counter" style="--to:4; --time:4s;"></span>
+    <br/>workshops
+    </div>
+    <div style="text-align: center; font-size: 3em; line-height: 1.05em;">
+    📚
+    <br/>
+    <span class="counter" style="--to:2; --time:4s;"></span>
+    <br/>books
+    </div>
+</div>
+
 
 #### 📜 My recent articles
 
