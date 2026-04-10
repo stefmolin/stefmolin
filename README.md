@@ -34,16 +34,16 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (1 day ago)
-- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (1 day ago)
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (2 days ago)
-- [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - WORK IN PROGRESS (3 days ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 days ago)
+- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (1 day ago)
+- [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (2 days ago)
+- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (2 days ago)
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (3 days ago)
+- [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - WORK IN PROGRESS (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.38](https://github.com/fastapi/sqlmodel/releases/tag/0.0.38), 1 week ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.0](https://github.com/hakimel/reveal.js/releases/tag/6.0.0), 4 weeks ago) - The HTML Presentation Framework
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.0](https://github.com/hakimel/reveal.js/releases/tag/6.0.0), 1 month ago) - The HTML Presentation Framework
 - [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.7.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.7.0), 2 months ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 4 months ago) - Numpy&#39;s Sphinx extensions
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.2.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.2.0), 5 months ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
