@@ -1,4 +1,4 @@
-## Stefanie Molin
+# Stefanie Molin
 
 [![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/stefmolin&style=flat)](https://github.com/sponsors/stefmolin)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-yellow?style=flat&logo=buymeacoffee&logoColor=white&labelColor=yellow&color=gray)
@@ -8,29 +8,29 @@
 I'm a software engineer, author, and international speaker who helps people of all levels
 improve their computer science and data science skills.
 
-#### 📜 My recent articles
+## 📜 My recent articles
 {{range rss "https://stefaniemolin.com/feeds/articles-rss.xml" 5}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 👩🏽‍🏫 My open source workshops
+## 👩🏽‍🏫 My open source workshops
 
 - [Introduction to Data Analysis Using Pandas](https://stefaniemolin.com/workshops/pandas-workshop/)
 - [Beyond the Basics: Data Visualization in Python](https://stefaniemolin.com/workshops/python-data-viz-workshop/)
 - [(Pre-)Commit to Better Code](https://stefaniemolin.com/workshops/pre-commit-workshop/)
 - [Process, Analyze, and Transform Python Code with ASTs](https://stefaniemolin.com/workshops/ast-workshop/)
 
-#### 📚 My published books
+## 📚 My published books
 
 - [Hands-On Data Analysis with Pandas (2nd edition)](https://stefaniemolin.com/books/Hands-On-Data-Analysis-with-Pandas-2nd-edition/) &ndash; also available in Korean and Simplified Chinese
 - [Hands-On Data Analysis with Pandas (1st edition)](https://stefaniemolin.com/books/Hands-On-Data-Analysis-with-Pandas-1st-edition/)
 
-#### 👩‍💻 What I'm currently working on
+## 👩‍💻 What I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
+## 🔭 Latest releases I've contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
