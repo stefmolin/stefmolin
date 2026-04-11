@@ -1,10 +1,6 @@
 ## Stefanie Molin
 
 [![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/stefmolin&style=flat)](https://github.com/sponsors/stefmolin)
-[![My website](https://img.shields.io/badge/website-stefaniemolin.com-0073b7?style=flat&link=https://stefaniemolin.com/)](https://stefaniemolin.com/)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/StefanieMolin?style=social)](https://twitter.com/StefanieMolin)
-[![BlueSky Follow](https://img.shields.io/badge/-Stefanie%20Molin-blue?style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/stefaniemolin.com)](https://bsky.app/profile/stefaniemolin.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Stefanie%20Molin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanie-molin/)](https://www.linkedin.com/in/stefanie-molin/)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-yellow?style=flat&logo=buymeacoffee&logoColor=white&labelColor=yellow&color=gray)
 ](https://www.buymeacoffee.com/stefanie.molin)
 [![Ko-Fi](https://shields.io/badge/kofi-Support-ff5f5f?logo=ko-fi&style=flat)](https://ko-fi.com/stefaniemolin)
@@ -13,6 +9,9 @@ I'm a software engineer, author, and international speaker who helps people of a
 improve their computer science and data science skills.
 
 #### 📜 My recent articles
+
+[![My website](https://img.shields.io/badge/website-stefaniemolin.com-0073b7?style=flat&link=https://stefaniemolin.com/)](https://stefaniemolin.com/)
+
 
 - [Becoming a Core Developer](https://stefaniemolin.com/articles/open-source/becoming-a-core-developer)
 - [Mind Your Image Metadata](https://stefaniemolin.com/articles/devx/pre-commit/exif-stripper)
@@ -34,16 +33,24 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+
+- [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (today)
 - [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
-- [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - WORK IN PROGRESS (1 day ago)
+- [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - WORK IN PROGRESS (today)
 - [stefmolin/pre-commit-workshop](https://github.com/stefmolin/pre-commit-workshop) - &#34;(Pre-)Commit to Better Code&#34; workshop (1 day ago)
 - [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (2 days ago)
-- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
+
 
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.1](https://github.com/hakimel/reveal.js/releases/tag/6.0.1), today) - The HTML Presentation Framework
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.38](https://github.com/fastapi/sqlmodel/releases/tag/0.0.38), 1 week ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.7.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.7.0), 2 months ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 4 months ago) - Numpy&#39;s Sphinx extensions
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.2.0](https://github.com/stefmolin/exif-stripper/releases/tag/1.2.0), 5 months ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
+
+---
+
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/StefanieMolin?style=social)](https://twitter.com/StefanieMolin)
+[![BlueSky Follow](https://img.shields.io/badge/-Stefanie%20Molin-blue?style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/stefaniemolin.com)](https://bsky.app/profile/stefaniemolin.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Stefanie%20Molin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanie-molin/)](https://www.linkedin.com/in/stefanie-molin/)
