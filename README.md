@@ -10,9 +10,6 @@ improve their computer science and data science skills.
 
 #### 📜 My recent articles
 
-[![My website](https://img.shields.io/badge/website-stefaniemolin.com-0073b7?style=flat&link=https://stefaniemolin.com/)](https://stefaniemolin.com/)
-
-
 - [Becoming a Core Developer](https://stefaniemolin.com/articles/open-source/becoming-a-core-developer)
 - [Mind Your Image Metadata](https://stefaniemolin.com/articles/devx/pre-commit/exif-stripper)
 - [Pre-Commit Hook Creation Guide](https://stefaniemolin.com/articles/devx/pre-commit/hook-creation-guide)
@@ -33,7 +30,6 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-
 - [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (today)
 - [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
 - [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - WORK IN PROGRESS (today)
@@ -41,7 +37,6 @@ improve their computer science and data science skills.
 - [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
-
 
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.1](https://github.com/hakimel/reveal.js/releases/tag/6.0.1), today) - The HTML Presentation Framework
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.38](https://github.com/fastapi/sqlmodel/releases/tag/0.0.38), 1 week ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -51,6 +46,7 @@ improve their computer science and data science skills.
 
 ---
 
+[![My website](https://img.shields.io/badge/website-stefaniemolin.com-0073b7?style=flat&link=https://stefaniemolin.com/)](https://stefaniemolin.com/)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/StefanieMolin?style=social)](https://twitter.com/StefanieMolin)
 [![BlueSky Follow](https://img.shields.io/badge/-Stefanie%20Molin-blue?style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/stefaniemolin.com)](https://bsky.app/profile/stefaniemolin.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Stefanie%20Molin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanie-molin/)](https://www.linkedin.com/in/stefanie-molin/)
