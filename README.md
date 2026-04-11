@@ -1,4 +1,4 @@
-## Stefanie Molin
+# Stefanie Molin
 
 [![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/stefmolin&style=flat)](https://github.com/sponsors/stefmolin)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-yellow?style=flat&logo=buymeacoffee&logoColor=white&labelColor=yellow&color=gray)
@@ -8,7 +8,7 @@
 I'm a software engineer, author, and international speaker who helps people of all levels
 improve their computer science and data science skills.
 
-#### 📜 My recent articles
+## 📜 My recent articles
 
 - [Becoming a Core Developer](https://stefaniemolin.com/articles/open-source/becoming-a-core-developer)
 - [Mind Your Image Metadata](https://stefaniemolin.com/articles/devx/pre-commit/exif-stripper)
@@ -16,19 +16,19 @@ improve their computer science and data science skills.
 - [A Behind-the-Scenes Look at How Pre-Commit Works](https://stefaniemolin.com/articles/devx/pre-commit/behind-the-scenes)
 - [Common Pre-Commit Errors and How to Solve Them](https://stefaniemolin.com/articles/devx/pre-commit/troubleshooting-guide)
 
-#### 👩🏽‍🏫 My open source workshops
+## 👩🏽‍🏫 My open source workshops
 
 - [Introduction to Data Analysis Using Pandas](https://stefaniemolin.com/workshops/pandas-workshop/)
 - [Beyond the Basics: Data Visualization in Python](https://stefaniemolin.com/workshops/python-data-viz-workshop/)
 - [(Pre-)Commit to Better Code](https://stefaniemolin.com/workshops/pre-commit-workshop/)
 - [Process, Analyze, and Transform Python Code with ASTs](https://stefaniemolin.com/workshops/ast-workshop/)
 
-#### 📚 My published books
+## 📚 My published books
 
 - [Hands-On Data Analysis with Pandas (2nd edition)](https://stefaniemolin.com/books/Hands-On-Data-Analysis-with-Pandas-2nd-edition/) &ndash; also available in Korean and Simplified Chinese
 - [Hands-On Data Analysis with Pandas (1st edition)](https://stefaniemolin.com/books/Hands-On-Data-Analysis-with-Pandas-1st-edition/)
 
-#### 👩‍💻 What I'm currently working on
+## 👩‍💻 What I'm currently working on
 
 - [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (today)
 - [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
@@ -36,7 +36,7 @@ improve their computer science and data science skills.
 - [stefmolin/pre-commit-workshop](https://github.com/stefmolin/pre-commit-workshop) - &#34;(Pre-)Commit to Better Code&#34; workshop (1 day ago)
 - [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (2 days ago)
 
-#### 🔭 Latest releases I've contributed to
+## 🔭 Latest releases I've contributed to
 
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.1](https://github.com/hakimel/reveal.js/releases/tag/6.0.1), today) - The HTML Presentation Framework
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.38](https://github.com/fastapi/sqlmodel/releases/tag/0.0.38), 1 week ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
