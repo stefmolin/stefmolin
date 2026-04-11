@@ -25,7 +25,7 @@ improve their computer science and data science skills.
 - [Hands-On Data Analysis with Pandas (2nd edition)](https://stefaniemolin.com/books/Hands-On-Data-Analysis-with-Pandas-2nd-edition/) &ndash; also available in Korean and Simplified Chinese
 - [Hands-On Data Analysis with Pandas (1st edition)](https://stefaniemolin.com/books/Hands-On-Data-Analysis-with-Pandas-1st-edition/)
 
-## 👩‍💻 What I'm currently working on
+## 👩🏽‍💻 What I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
