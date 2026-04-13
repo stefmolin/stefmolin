@@ -32,9 +32,9 @@ improve their computer science and data science skills.
 
 - [stefmolin/Hands-On-Data-Analysis-with-Pandas](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas) - Materials for following along with Hands-On Data Analysis with Pandas. (2 days ago)
 - [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (2 days ago)
-- [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (2 days ago)
 - [stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) - Materials for following along with Hands-On Data Analysis with Pandas – Second Edition (2 days ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 days ago)
+- [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - WORK IN PROGRESS (2 days ago)
+- [stefmolin/modification-timekeeper](https://github.com/stefmolin/modification-timekeeper) - Keep modification time in a Markdown file&#39;s YAML front matter up to date. (2 days ago)
 
 ## 🔭 Latest releases I've contributed to
 
