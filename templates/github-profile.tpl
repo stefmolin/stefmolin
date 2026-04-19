@@ -1,8 +1,7 @@
 # Stefanie Molin
 
 [![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/stefmolin&style=flat)](https://github.com/sponsors/stefmolin)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-yellow?style=flat&logo=buymeacoffee&logoColor=white&labelColor=yellow&color=gray)
-](https://www.buymeacoffee.com/stefanie.molin)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-yellow?style=flat&logo=buymeacoffee&logoColor=white&labelColor=yellow&color=gray)](https://www.buymeacoffee.com/stefanie.molin)
 [![Ko-Fi](https://shields.io/badge/kofi-Support-ff5f5f?logo=ko-fi&style=flat)](https://ko-fi.com/stefaniemolin)
 
 I'm a software engineer, author, and international speaker who helps people of all levels
