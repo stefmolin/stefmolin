@@ -29,8 +29,8 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
 - [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - &#34;Process, Analyze, and Transform Python Code with ASTs&#34; workshop (1 day ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (3 days ago)
 - [stefmolin/pre-commit-workshop](https://github.com/stefmolin/pre-commit-workshop) - &#34;(Pre-)Commit to Better Code&#34; workshop (1 week ago)
 - [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (1 week ago)
 - [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (1 week ago)
