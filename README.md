@@ -29,11 +29,11 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
-- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (1 day ago)
-- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (1 day ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 day ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (1 day ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
+- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (1 day ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 day ago)
+- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (1 day ago)
 
 ## 🔭 Latest releases I've contributed to
 
