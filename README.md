@@ -38,7 +38,7 @@ improve their computer science and data science skills.
 ## 🔭 Latest releases I've contributed to
 
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.0](https://github.com/stefmolin/docstringify/releases/tag/2.0.0), 2 weeks ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.1](https://github.com/hakimel/reveal.js/releases/tag/6.0.1), 4 weeks ago) - The HTML Presentation Framework
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.1](https://github.com/hakimel/reveal.js/releases/tag/6.0.1), 1 month ago) - The HTML Presentation Framework
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.38](https://github.com/fastapi/sqlmodel/releases/tag/0.0.38), 1 month ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.7.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.7.0), 3 months ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 5 months ago) - Numpy&#39;s Sphinx extensions
