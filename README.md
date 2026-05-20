@@ -29,8 +29,8 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
-- [python/cpython](https://github.com/python/cpython) - The Python programming language (today)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
+- [python/cpython](https://github.com/python/cpython) - The Python programming language (1 day ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 days ago)
 - [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (2 weeks ago)
 - [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - &#34;Process, Analyze, and Transform Python Code with ASTs&#34; workshop (3 weeks ago)
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (3 weeks ago)
