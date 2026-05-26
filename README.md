@@ -29,15 +29,15 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
-- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (4 days ago)
-- [cosimameyer/awesome-pyladies-creations](https://github.com/cosimameyer/awesome-pyladies-creations) - 👩‍💻 Repository with Awesome PyLadies&#39; content (4 days ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (4 days ago)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (4 days ago)
-- [python/cpython](https://github.com/python/cpython) - The Python programming language (6 days ago)
+- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) - Flag missing docstrings and, optionally, generate them from signatures and type annotations. (5 days ago)
+- [cosimameyer/awesome-pyladies-creations](https://github.com/cosimameyer/awesome-pyladies-creations) - 👩‍💻 Repository with Awesome PyLadies&#39; content (5 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (5 days ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (5 days ago)
+- [python/cpython](https://github.com/python/cpython) - The Python programming language (1 week ago)
 
 ## 🔭 Latest releases I've contributed to
 
-- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.0](https://github.com/stefmolin/docstringify/releases/tag/2.0.0), 4 weeks ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
+- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.0](https://github.com/stefmolin/docstringify/releases/tag/2.0.0), 1 month ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.1](https://github.com/hakimel/reveal.js/releases/tag/6.0.1), 1 month ago) - The HTML Presentation Framework
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.38](https://github.com/fastapi/sqlmodel/releases/tag/0.0.38), 1 month ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.7.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.7.0), 4 months ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
