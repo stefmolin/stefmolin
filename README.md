@@ -30,7 +30,7 @@ improve their computer science and data science skills.
 ## 👩🏽‍💻 What I'm currently working on
 
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) - Numpy&#39;s Sphinx extensions (1 day ago)
-- [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - &#34;Process, Analyze, and Transform Python Code with ASTs&#34; workshop (5 days ago)
+- [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - &#34;Process, Analyze, and Transform Python Code with ASTs&#34; workshop (1 day ago)
 - [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (2 weeks ago)
 - [cosimameyer/awesome-pyladies-creations](https://github.com/cosimameyer/awesome-pyladies-creations) - 👩‍💻 Repository with Awesome PyLadies&#39; content (3 weeks ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (3 weeks ago)
