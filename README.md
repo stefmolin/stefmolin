@@ -29,18 +29,18 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (4 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (5 days ago)
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) - Numpy&#39;s Sphinx extensions (1 week ago)
 - [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - &#34;Process, Analyze, and Transform Python Code with ASTs&#34; workshop (1 week ago)
-- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (2 weeks ago)
-- [cosimameyer/awesome-pyladies-creations](https://github.com/cosimameyer/awesome-pyladies-creations) - 👩‍💻 Repository with Awesome PyLadies&#39; content (3 weeks ago)
+- [stefmolin/build-your-own-simple-static-code-analyzer-talk](https://github.com/stefmolin/build-your-own-simple-static-code-analyzer-talk) - Slides for my PyCon Lithuania 2025 keynote &#34;Build Your Own (Simple) Static Code Analyzer&#34; (3 weeks ago)
+- [cosimameyer/awesome-pyladies-creations](https://github.com/cosimameyer/awesome-pyladies-creations) - 👩‍💻 Repository with Awesome PyLadies&#39; content (4 weeks ago)
 
 ## 🔭 Latest releases I've contributed to
 
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.0](https://github.com/stefmolin/docstringify/releases/tag/2.0.0), 1 month ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.1](https://github.com/hakimel/reveal.js/releases/tag/6.0.1), 2 months ago) - The HTML Presentation Framework
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.38](https://github.com/fastapi/sqlmodel/releases/tag/0.0.38), 2 months ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.7.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.7.0), 4 months ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
+- [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.7.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.7.0), 5 months ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.10.0](https://github.com/numpy/numpydoc/releases/tag/v1.10.0), 6 months ago) - Numpy&#39;s Sphinx extensions
 
 ---
