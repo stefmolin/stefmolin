@@ -37,7 +37,7 @@ improve their computer science and data science skills.
 
 ## 🔭 Latest releases I've contributed to
 
-- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) ([0.1.0](https://github.com/stefmolin/ast-explore/releases/tag/0.1.0), 6 days ago) - Tool for exploring the AST of given Python source code.
+- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) ([0.1.0](https://github.com/stefmolin/ast-explore/releases/tag/0.1.0), 1 week ago) - Tool for exploring the AST of given Python source code.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.39](https://github.com/fastapi/sqlmodel/releases/tag/0.0.39), 1 week ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.0](https://github.com/stefmolin/docstringify/releases/tag/2.0.0), 2 months ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.1](https://github.com/hakimel/reveal.js/releases/tag/6.0.1), 2 months ago) - The HTML Presentation Framework
