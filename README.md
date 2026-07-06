@@ -29,7 +29,7 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
 - [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) - Tool for exploring the AST of given Python source code. (1 week ago)
 - [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - &#34;Process, Analyze, and Transform Python Code with ASTs&#34; workshop (3 weeks ago)
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) - Numpy&#39;s Sphinx extensions (3 weeks ago)
