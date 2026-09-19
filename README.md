@@ -37,7 +37,7 @@ improve their computer science and data science skills.
 
 ## 🔭 Latest releases I've contributed to
 
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.11.0](https://github.com/numpy/numpydoc/releases/tag/v1.11.0), 3 days ago) - Numpy&#39;s Sphinx extensions
+- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.11.0](https://github.com/numpy/numpydoc/releases/tag/v1.11.0), 4 days ago) - Numpy&#39;s Sphinx extensions
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.2](https://github.com/hakimel/reveal.js/releases/tag/6.0.2), 1 week ago) - The HTML Presentation Framework
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.42](https://github.com/fastapi/sqlmodel/releases/tag/0.0.42), 3 weeks ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) ([0.2.1](https://github.com/stefmolin/ast-explore/releases/tag/0.2.1), 2 months ago) - Tool for exploring the AST of given Python source code.
