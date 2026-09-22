@@ -29,7 +29,7 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 days ago)
 - [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) - Tool for exploring the AST of given Python source code. (2 months ago)
 - [stefmolin/ast-workshop](https://github.com/stefmolin/ast-workshop) - &#34;Process, Analyze, and Transform Python Code with ASTs&#34; workshop (2 months ago)
 - [numpy/numpydoc](https://github.com/numpy/numpydoc) - Numpy&#39;s Sphinx extensions (3 months ago)
@@ -37,8 +37,8 @@ improve their computer science and data science skills.
 
 ## 🔭 Latest releases I've contributed to
 
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.45](https://github.com/fastapi/sqlmodel/releases/tag/0.0.45), today) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.11.0](https://github.com/numpy/numpydoc/releases/tag/v1.11.0), 6 days ago) - Numpy&#39;s Sphinx extensions
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.45](https://github.com/fastapi/sqlmodel/releases/tag/0.0.45), 1 day ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.11.0](https://github.com/numpy/numpydoc/releases/tag/v1.11.0), 1 week ago) - Numpy&#39;s Sphinx extensions
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.2](https://github.com/hakimel/reveal.js/releases/tag/6.0.2), 1 week ago) - The HTML Presentation Framework
 - [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) ([0.2.1](https://github.com/stefmolin/ast-explore/releases/tag/0.2.1), 2 months ago) - Tool for exploring the AST of given Python source code.
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.0](https://github.com/stefmolin/docstringify/releases/tag/2.0.0), 4 months ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
