@@ -29,17 +29,17 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
-- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (1 day ago)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
-- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (1 day ago)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 day ago)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (1 day ago)
+- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (2 days ago)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (2 days ago)
+- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (2 days ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (2 days ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (2 days ago)
 
 ## 🔭 Latest releases I've contributed to
 
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.4.0](https://github.com/stefmolin/data-morph/releases/tag/0.4.0), 1 day ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.47](https://github.com/fastapi/sqlmodel/releases/tag/0.0.47), 5 days ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.11.0](https://github.com/numpy/numpydoc/releases/tag/v1.11.0), 1 week ago) - Numpy&#39;s Sphinx extensions
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.4.0](https://github.com/stefmolin/data-morph/releases/tag/0.4.0), 2 days ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.47](https://github.com/fastapi/sqlmodel/releases/tag/0.0.47), 6 days ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.11.0](https://github.com/numpy/numpydoc/releases/tag/v1.11.0), 2 weeks ago) - Numpy&#39;s Sphinx extensions
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.2](https://github.com/hakimel/reveal.js/releases/tag/6.0.2), 2 weeks ago) - The HTML Presentation Framework
 - [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) ([0.2.1](https://github.com/stefmolin/ast-explore/releases/tag/0.2.1), 2 months ago) - Tool for exploring the AST of given Python source code.
 
