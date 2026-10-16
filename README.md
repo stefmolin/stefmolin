@@ -29,10 +29,10 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
-- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (2 days ago)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (2 days ago)
-- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) - Tool for exploring the AST of given Python source code. (4 days ago)
-- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (4 days ago)
+- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (3 days ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (3 days ago)
+- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) - Tool for exploring the AST of given Python source code. (5 days ago)
+- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (5 days ago)
 - [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (2 weeks ago)
 
 ## 🔭 Latest releases I've contributed to
