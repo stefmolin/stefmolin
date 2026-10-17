@@ -29,19 +29,19 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (today)
+- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (today)
+- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) - Tool for exploring the AST of given Python source code. (today)
+- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (today)
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (today)
-- [stefmolin/stefmolin.github.io](https://github.com/stefmolin/stefmolin.github.io) - My personal website (stefaniemolin.com). (1 day ago)
-- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (4 days ago)
-- [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (6 days ago)
-- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) - Tool for exploring the AST of given Python source code. (6 days ago)
 
 ## 🔭 Latest releases I've contributed to
 
+- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) ([0.3.0](https://github.com/stefmolin/ast-explore/releases/tag/0.3.0), today) - Tool for exploring the AST of given Python source code.
+- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.1](https://github.com/stefmolin/docstringify/releases/tag/2.0.1), today) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.3.1](https://github.com/stefmolin/exif-stripper/releases/tag/1.3.1), today) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.4.1](https://github.com/stefmolin/data-morph/releases/tag/0.4.1), today) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.48](https://github.com/fastapi/sqlmodel/releases/tag/0.0.48), 1 week ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [numpy/numpydoc](https://github.com/numpy/numpydoc) ([v1.11.0](https://github.com/numpy/numpydoc/releases/tag/v1.11.0), 1 month ago) - Numpy&#39;s Sphinx extensions
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ([6.0.2](https://github.com/hakimel/reveal.js/releases/tag/6.0.2), 1 month ago) - The HTML Presentation Framework
-- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) ([0.2.1](https://github.com/stefmolin/ast-explore/releases/tag/0.2.1), 3 months ago) - Tool for exploring the AST of given Python source code.
 
 ---
 
