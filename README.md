@@ -29,18 +29,18 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
-- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (5 days ago)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (6 days ago)
-- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) - Tool for exploring the AST of given Python source code. (6 days ago)
-- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (6 days ago)
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (6 days ago)
+- [stefmolin/data-morph-talk](https://github.com/stefmolin/data-morph-talk) - Slides for my talk &#34;Data Morph: A Cautionary Tale of Summary Statistics&#34; (6 days ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (1 week ago)
+- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) - Tool for exploring the AST of given Python source code. (1 week ago)
+- [conda-forge/data-morph-ai-feedstock](https://github.com/conda-forge/data-morph-ai-feedstock) - A conda-smithy repository for data-morph-ai. (1 week ago)
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (1 week ago)
 
 ## 🔭 Latest releases I've contributed to
 
-- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) ([0.3.0](https://github.com/stefmolin/ast-explore/releases/tag/0.3.0), 6 days ago) - Tool for exploring the AST of given Python source code.
-- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.1](https://github.com/stefmolin/docstringify/releases/tag/2.0.1), 6 days ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.3.1](https://github.com/stefmolin/exif-stripper/releases/tag/1.3.1), 6 days ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
-- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.4.1](https://github.com/stefmolin/data-morph/releases/tag/0.4.1), 6 days ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
+- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) ([0.3.0](https://github.com/stefmolin/ast-explore/releases/tag/0.3.0), 1 week ago) - Tool for exploring the AST of given Python source code.
+- [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.1](https://github.com/stefmolin/docstringify/releases/tag/2.0.1), 1 week ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.3.1](https://github.com/stefmolin/exif-stripper/releases/tag/1.3.1), 1 week ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
+- [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.4.1](https://github.com/stefmolin/data-morph/releases/tag/0.4.1), 1 week ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.48](https://github.com/fastapi/sqlmodel/releases/tag/0.0.48), 2 weeks ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 
 ---
