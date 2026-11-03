@@ -41,7 +41,7 @@ improve their computer science and data science skills.
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.1](https://github.com/stefmolin/docstringify/releases/tag/2.0.1), 2 weeks ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.3.1](https://github.com/stefmolin/exif-stripper/releases/tag/1.3.1), 2 weeks ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) ([0.4.1](https://github.com/stefmolin/data-morph/releases/tag/0.4.1), 2 weeks ago) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.48](https://github.com/fastapi/sqlmodel/releases/tag/0.0.48), 3 weeks ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.48](https://github.com/fastapi/sqlmodel/releases/tag/0.0.48), 4 weeks ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 
 ---
 
