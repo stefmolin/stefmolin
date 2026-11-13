@@ -37,7 +37,7 @@ improve their computer science and data science skills.
 
 ## 🔭 Latest releases I've contributed to
 
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.49](https://github.com/fastapi/sqlmodel/releases/tag/0.0.49), 2 days ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.50](https://github.com/fastapi/sqlmodel/releases/tag/0.0.50), today) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.8.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.8.0), 3 days ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
 - [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) ([0.3.0](https://github.com/stefmolin/ast-explore/releases/tag/0.3.0), 3 weeks ago) - Tool for exploring the AST of given Python source code.
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.1](https://github.com/stefmolin/docstringify/releases/tag/2.0.1), 3 weeks ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
