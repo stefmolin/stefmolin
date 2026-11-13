@@ -29,7 +29,7 @@ improve their computer science and data science skills.
 
 ## 👩🏽‍💻 What I'm currently working on
 
-- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) - Tool for exploring the AST of given Python source code. (1 day ago)
+- [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) - Tool for exploring the AST of given Python source code. (2 days ago)
 - [stefmolin/data-morph](https://github.com/stefmolin/data-morph) - Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization. (2 weeks ago)
 - [stefmolin/pandas-workshop](https://github.com/stefmolin/pandas-workshop) - An introductory workshop on pandas with notebooks and exercises for following along. Slides contain all solutions. (2 weeks ago)
 - [stefmolin/python-data-viz-workshop](https://github.com/stefmolin/python-data-viz-workshop) - A workshop on data visualization in Python with notebooks and exercises for following along.  Slides contain all solutions. (2 weeks ago)
@@ -37,8 +37,8 @@ improve their computer science and data science skills.
 
 ## 🔭 Latest releases I've contributed to
 
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.49](https://github.com/fastapi/sqlmodel/releases/tag/0.0.49), 1 day ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.8.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.8.0), 2 days ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) ([0.0.49](https://github.com/fastapi/sqlmodel/releases/tag/0.0.49), 2 days ago) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design) ([v0.8.0](https://github.com/executablebooks/sphinx-design/releases/tag/v0.8.0), 3 days ago) - A sphinx extension for designing beautiful, screen-size responsive web components.
 - [stefmolin/ast-explore](https://github.com/stefmolin/ast-explore) ([0.3.0](https://github.com/stefmolin/ast-explore/releases/tag/0.3.0), 3 weeks ago) - Tool for exploring the AST of given Python source code.
 - [stefmolin/docstringify](https://github.com/stefmolin/docstringify) ([2.0.1](https://github.com/stefmolin/docstringify/releases/tag/2.0.1), 3 weeks ago) - Flag missing docstrings and, optionally, generate them from signatures and type annotations.
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) ([1.3.1](https://github.com/stefmolin/exif-stripper/releases/tag/1.3.1), 3 weeks ago) - An easy-to-use tool to ensure image metadata (EXIF) is removed.
